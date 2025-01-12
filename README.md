@@ -1,8 +1,11 @@
 # [Web Advertising Business Group](https://www.w3.org/community/web-adv) repository
 
-Raise issues, add drafts. As you add a document, feel free to add a PR for its description to the README.
+Raise issues, add drafts. As you add a document, feel free to add a PR for its description to the [Mozilla_Advertising_Standards_2024.pdf](https://github.com/user-attachments/files/18391590/Mozilla_Advertising_Standards_2024.pdf)
+[Améliorer le groupe d'entreprises de publicité sur le Web.pdf](https://github.com/user-attachments/files/18391588/Ameliorer.le.groupe.d.entreprises.de.publicite.sur.le.Web.pdf)
+README.
 
-[Dashboard](https://w3c.github.io/web-advertising/dashboard/)
+[Dashboard](https://w3c.github.io/
+web-advertising/dashboard/)
 
 # Introductory and Summary Material
 
